@@ -1,0 +1,632 @@
+[
+    {
+        "document_id": "salary_slip_genuine_001",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_002",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_003",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_004",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_005",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_006",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_007",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_008",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_009",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_010",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_011",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_012",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_013",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_014",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_genuine_015",
+        "document_type": "salary_slip",
+        "forgery_score": 7.92,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "salary_slip_tampered_001",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_002",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_003",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_004",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_005",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_006",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_007",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_008",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_009",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_010",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_011",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_012",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_013",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_014",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "salary_slip_tampered_015",
+        "document_type": "salary_slip",
+        "forgery_score": 92.07,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_genuine_001",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_002",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_003",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_004",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_005",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_006",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_007",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_008",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_009",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_010",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_011",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_012",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_013",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_014",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_genuine_015",
+        "document_type": "bank_statement",
+        "forgery_score": 7.4,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "bank_statement_tampered_001",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_002",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_003",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_004",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_005",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_006",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_007",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_008",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_009",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_010",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_011",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_012",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_013",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_014",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "bank_statement_tampered_015",
+        "document_type": "bank_statement",
+        "forgery_score": 93.7,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_genuine_001",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_002",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_003",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_004",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_005",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_006",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_007",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_008",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_009",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_010",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_011",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_012",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_013",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_014",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_genuine_015",
+        "document_type": "property_document",
+        "forgery_score": 6.83,
+        "tampering_flag": false,
+        "risk_level": "Low"
+    },
+    {
+        "document_id": "property_document_tampered_001",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_002",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_003",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_004",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_005",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_006",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_007",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_008",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_009",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_010",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_011",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_012",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_013",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_014",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    },
+    {
+        "document_id": "property_document_tampered_015",
+        "document_type": "property_document",
+        "forgery_score": 93.17,
+        "tampering_flag": true,
+        "risk_level": "High"
+    }
+]

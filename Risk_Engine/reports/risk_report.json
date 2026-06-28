@@ -1,0 +1,392 @@
+[
+    {
+        "application_id": "genuine_001",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_002",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_003",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_004",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_005",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_006",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_007",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_008",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_009",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_010",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_011",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_012",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_013",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_014",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "genuine_015",
+        "documents": 3,
+        "name_validation": "PASS",
+        "risk_score": 0,
+        "decision": "LOW RISK",
+        "reasons": [
+            "No suspicious activity detected"
+        ]
+    },
+    {
+        "application_id": "tampered_001",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_002",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_003",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_004",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_005",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_006",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_007",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_008",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_009",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_010",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_011",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_012",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_013",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_014",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    },
+    {
+        "application_id": "tampered_015",
+        "documents": 3,
+        "name_validation": "FAIL",
+        "risk_score": 235,
+        "decision": "HIGH RISK",
+        "reasons": [
+            "High forgery score in salary_slip",
+            "Tampering detected in salary_slip",
+            "High forgery score in bank_statement",
+            "Tampering detected in bank_statement",
+            "High forgery score in property_document",
+            "Tampering detected in property_document",
+            "Name mismatch across documents"
+        ]
+    }
+]
